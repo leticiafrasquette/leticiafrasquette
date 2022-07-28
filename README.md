@@ -2,7 +2,7 @@
 
 
 - 🌱 Estudando NodeJS e Typescript
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: ela/dela she/her
 
 
   
