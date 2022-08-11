@@ -1,7 +1,7 @@
 ### Oi! Eu sou a Letícia Frasquette
 
 
-- 🌱 Estudando NodeJS e Typescript
+- 🌱 Estudando JavaScript, Typescript e NodeJS
 - 😄 Pronouns: ela/dela she/her
 
 
