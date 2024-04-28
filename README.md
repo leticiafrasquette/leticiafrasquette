@@ -1,7 +1,7 @@
 ### Hi! I'm Letícia Frasquette. <br> I currently work with ReactJS, Typescript and SharePoint Framework (SPFx)! 
 
 
-- 🌱 I'm studing Typescript and NodeJS
+- 🌱 I'm studing ReactJS, NextJS, Typescript and NodeJS
 - 😄 Pronouns: ela/dela she/her
 
 <div align="center">
