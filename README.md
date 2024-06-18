@@ -1,4 +1,4 @@
-### Hi! I'm Letícia Frasquette. <br> I currently work with ReactJS, Typescript and SharePoint Framework (SPFx)! 
+### Hi! I'm Letícia Frasquette. <br> I currently work with ReactJS, Typescript and NextJS! 
 
 
 - 🌱 I'm studing ReactJS, NextJS, Typescript and NodeJS
